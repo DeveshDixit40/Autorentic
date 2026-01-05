@@ -1,4 +1,4 @@
-currently this is not working
+will update after
 # Getting Started with Create React App
 
 This project was initialized using Create React App.
