@@ -1,4 +1,4 @@
-currently
+currently this is 
 # Getting Started with Create React App
 
 This project was initialized using Create React App.
